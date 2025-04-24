@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "43d85b544cb924e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49c7697791f542a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07aa3937d4493de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interlace/Personal Free domain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Free domain"
+            }
+          },
+          {
+            "id": "09ddd4251308d91b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSAP stage 1/OSAP stage-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSAP stage-1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7087a3fea09b219",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93ae2e0fb18c754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26b4146bb4a658d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd54a3995e7c24fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "741039c7776cf22b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc9484af6e210166",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f87bbd43772f6ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "850bfc98df089595",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interlace/Personal Free domain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Personal Free domain"
+            }
+          },
+          {
+            "id": "4d3e75c35024459f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interlace/Personal Free domain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Personal Free domain"
+            }
+          },
+          {
+            "id": "4118b935fe000d36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "849ccf961d1ae15f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interlace/Personal Free domain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Personal Free domain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "09ddd4251308d91b",
+  "lastOpenFiles": [
+    "Pasted image 20250424102739.png",
+    "OSAP stage 1/Sujan KHATRI/Visa_Sujan KHATRI.pdf",
+    "OSAP stage 1/Sujan KHATRI/TRA Application Form_Sujan KHATRI.pdf",
+    "OSAP stage 1/Sujan KHATRI/Signature_Sujan KHATRI.jpg",
+    "OSAP stage 1/Sujan KHATRI/S1 Information Release_Sujan KHATRI.pdf",
+    "OSAP stage 1/Sujan KHATRI/RPL_Sujan KHATRI.pdf",
+    "OSAP stage 1/Sujan KHATRI/Resume_Sujan KHATRI.docx",
+    "OSAP stage 1/Sujan KHATRI/Resume_Sujan KHATRI (2).docx",
+    "OSAP stage 1/Sujan KHATRI/Photo_Sujan KHATRI.jpeg",
+    "OSAP stage 1/Sujan KHATRI/Passport_Sujan KHATRI.pdf",
+    "OSAP stage 1/Sujan KHATRI/Industry Experience Summary.pdf",
+    "OSAP stage 1/Sujan KHATRI",
+    "Engineers Australia (EA).md",
+    "OSAP stage 1/OSAP stage-1.md",
+    "OSAP stage 1",
+    "Interlace/Personal Free domain.md",
+    "README.md"
+  ]
+}
